@@ -8,7 +8,7 @@ This project aims to develop new methods for measuring job vacancies using surve
 
 Research funded by the National Science Centre (NCN) Poland under The OPUS 27 grant, grant number 2024/53/B/HS4/01580
 
-[![](../imgs/logo-nawa.png)](https://nawa.gov.pl/en/)
+[![](../logo-ncn_en.png)](https://www.ncn.gov.pl/en/)
 
 ## Outputs
 
