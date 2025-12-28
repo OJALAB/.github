@@ -1,4 +1,4 @@
-# OJALAB: Online job advertisements to study skill demand and job search patterns (2024/53/B/HS4/01580)
+# OJALAB: Online job advertisements to study skill demand and job search patterns
 
 [![](../ojalab-logo-website.jpg)](https://ojalab.ue.poznan.pl)
 
