@@ -18,9 +18,6 @@ Research funded by the National Science Centre (NCN) Poland under The OPUS 27 gr
 
 ### Working papers
 
-
-### Presentations
-
 ### Data
 
 
