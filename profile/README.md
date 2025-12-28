@@ -1,5 +1,7 @@
 # OJALAB: Online job advertisements to study skill demand and job search patterns (2024/53/B/HS4/01580)
 
+![ojalab-logo-website](https://github.com/user-attachments/assets/27223380-a186-4b86-bf1c-a48c2af388b8)
+
 ## About
 
 This project aims to develop new methods for measuring job vacancies using survey, online, and administrative data to address issues of bias and limited scope in traditional approaches. The researchers will implement techniques like capture-recapture analysis, data integration methods, and classification algorithms to estimate vacancy numbers, correct for non-representativeness, analyze skill demands, evaluate structural changes in the labor market, and examine job search and matching processes in detail.
