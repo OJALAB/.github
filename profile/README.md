@@ -12,9 +12,12 @@ Research funded by the National Science Centre (NCN) Poland under The OPUS 27 gr
 
 ## Outputs
 
+### Papers
+
++ [Beręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2025). Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics. Journal of Official Statistics, 0(0).](https://journals.sagepub.com/doi/10.1177/0282423X251395400)
+
 ### Working papers
 
-+ [Multilingual hierarchical classification of job advertisements for job vacancy statistics](https://github.com/OJALAB/paper-job-ads-classifier)
 
 ### Presentations
 
